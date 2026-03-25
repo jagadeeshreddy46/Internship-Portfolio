@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "GlobalStoreDb",
+            "database": "${workspaceFolder:task2}/global_store.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
